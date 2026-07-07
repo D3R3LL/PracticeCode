@@ -20,9 +20,7 @@ Currently practicing:
 
 Structure
 
-Practice-Code
-
-│
+Practice-Code│
 ├── Web-Development
 ├── CSharp
 ├── Python
