@@ -427,3 +427,35 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js / JavaScript / TypeScript
+node_modules/
+dist/
+build/
+.env
+
+# Godot
+.godot/
+
+# General temporary files
+*.tmp
+*.log
+*.cache
