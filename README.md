@@ -16,7 +16,7 @@ Currently practicing:
 - TypeScript
 - C#
 - Python
-- Godot (C#)
+- Unity (C#)
 
 Structure
 
@@ -25,7 +25,7 @@ Practice-Code
 ├── Web-Development
 ├── CSharp
 ├── Python
-└── Godot
+└── Unity
 
 Notes
 
